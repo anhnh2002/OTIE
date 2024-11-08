@@ -3,3 +3,4 @@ checkpoints/
 cache/
 wandb/
 *.env
+__pycache__/
